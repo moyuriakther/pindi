@@ -1,0 +1,66 @@
+.panda-button{
+    background-image: linear-gradient(180deg, #FF579A, #FF1570);
+    color: white;
+    padding: 8px 20px;
+    border-radius: 10px;
+}
+.panda-slide{
+    background-color: #FCEAE8;
+    margin-top: 100px;
+    border-radius: 10px;
+}
+.item-price{
+    color: #FF1570;
+}
+#items{
+    color: white;
+    margin-top: 100px;
+}
+.items img{
+    width: 100px;
+}
+.bag-item{
+    background-color: #ffa500;
+}
+.shoe-item{
+    background-color: #da70d6;
+}
+.watch-item{
+    background-color: #0000ff;
+}
+.watch-item, .shoe-item, .bag-item{
+    border-radius: 10px;
+}
+#backpack{
+    margin-top: 100px;
+}
+.panda-card{
+    border: none;
+    border-radius: 10px;
+}
+.panda-card-footer{
+    border: none;
+    background-color: white;
+}
+#shoes{
+    margin-top: 100px;
+}
+#subscribe{
+    height: 300px;
+    background-color: #fceae8;
+    margin-top: 100px;
+    border-radius: 10px;
+}
+#subscribe h6{
+    color: #808087;
+}
+#subscribe input{
+    border: 2px solid gray;
+    outline: none;
+    width: 280px;
+    border-radius: 5px;
+    height: 40px;
+}
+footer{
+    margin-top: 100px;
+}
